@@ -1,0 +1,4 @@
+Date::2022-11-05,	 Width:205 mm,	 Ratio:60,	 Diameter:15 inches	, Volume:39.92 Liters
+Date::2022-11-05,	 Width:235 mm,	 Ratio:55,	 Diameter:12 inches	, Volume:41.42 Liters
+Date::2022-11-05,	 Width:200 mm,	 Ratio:70,	 Diameter:36 inches	, Volume:92.75 Liters
+Date::2022-11-05,	 Width:70 mm,	 Ratio:10,	 Diameter:5 inches	, Volume:0.21 Liters
